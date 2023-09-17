@@ -1,0 +1,147 @@
+.ocean{
+    padding-left: 10px;
+    padding-top: 20px;
+    
+
+}
+.signup{
+    margin-left: 100px;
+    margin-top: -30px;
+    width: 80px;
+    height: 30px;
+}
+.buyer{
+    margin-left: 200px;
+    margin-top: -30px;
+    width: 80px;
+    height: 30px;
+}
+.celler{
+    margin-left: 300px;
+    margin-top: -30px;
+    height: 30px;
+    width: 80px;
+}
+.product{
+    height: 30px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.market{
+    height: 30px;
+    width: 400px;
+    margin-left: 680px;
+    margin-top: -30px;
+}
+.search{
+    height: 30px;
+    width: 80px;
+    margin-left: 920px;
+    margin-top: -32px;
+}
+.account{
+    height: 30px;
+    width: 80px;
+    margin-left: 1130px;
+    margin-top: -36px;
+}
+.help{
+    height: 30px;
+    width: 80px;
+    margin-left: 1300px;
+    margin-top: -30px;
+}
+.cart{
+    height: 30px;
+    width: 80px;
+    margin-left: 1030px;
+    margin-top: -32px;
+}
+.market-place{
+    height: 600px;
+    width: 1350px;
+    background-color: rgb(153, 53, 53);
+    text-align: bottom;
+}
+.slogan{
+    height: 30px;
+    width: 1350px;
+    background-color: rgb(122, 152, 187);
+}
+.stock{
+height: 80px;
+width: 150px;
+margin-top: 420px;
+}
+.commodity{
+    height: 100px;
+    width: 120px;
+    margin-left: 190px;
+    margin-top: -30px;
+}
+.financial{
+    height: 100px;
+    width: 120px;
+    margin-left: 450px;
+    margin-top: -102px;
+}
+.special{
+    height: 100px;
+    width: 120px;
+    margin-left: 720px;
+    margin-top: -100px;
+}
+.command{
+    height: 100px;
+    width: 120px;
+    margin-left: 970px;
+    margin-top: -101px;
+}
+.forex{
+    height: 100px;
+    width: 120px;
+    margin-left: 1190px;
+    margin-top: -150px;
+}
+.buyer-button{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 25px;
+    border-radius: 12px;
+}
+.buyer-button:hover{
+    background-color: green;
+    color:black;
+}
+.buyer-button:active{
+    background-color: green;
+    opacity: 0.3;
+}
+div div a img{
+    border: 20px;
+}
+.product input{
+    border-radius: 20px;
+    background-color: yellow;
+}
+.market input{
+    border-radius: 20px;
+    background-color: yellow;
+}
+.news{
+    margin-top: -30px;
+    margin-left: 1240px;
+}
+.news a{
+    
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+.header-container{
+    background-color: rgb(190, 190, 73);
+    height: 40px;
+    width: 1350px;
+}
